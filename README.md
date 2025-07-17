@@ -1,6 +1,6 @@
 # 🏗️ Legacy System to AWS Migration (Lift-and-Shift + Modernization)
 
-This project migrates a legacy on-premise web application to AWS using a Lift-and-Shift strategy, followed by partial modernization using cloud-native resources and Terraform automation.
+This project migrates a legacy on-premise web application to AWS using a Lift-and-Shift strategy, followed by partial modernization using **cloud-native** resources and Terraform automation.
 
 ## 🔧 Phases
 
